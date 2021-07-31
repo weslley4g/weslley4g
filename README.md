@@ -1,18 +1,14 @@
-
-### Here are some ideas to get you started:
-
-- 🔭 I’m currently working on infrastructure
-- 🌱 I’m currently learning TypeScript
-- 🤔 I’m looking for help with JavaScript
-- 💬 Ask me about NodeJS
-
 ## Olá eu sou o Weslley Zanirate 
  <div>
   <a href="https://github.com/weslley4g">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weslley4g&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslley4g&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div style="display: inline_block"><br>
+- 🔭 I’m currently working on infrastructure
+- 🌱 I’m currently learning TypeScript
+- 🤔 I’m looking for help with JavaScript
+- 💬 Ask me about NodeJS
+ <div style="display: inline_block"><br>
   <img align="center" alt="Weslley4g-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Weslley4g-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Weslley4g-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
