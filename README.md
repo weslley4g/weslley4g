@@ -7,10 +7,10 @@
 </div>
 <hr/>
 
-- 🔭 I’m currently working on infrastructure
-- 🌱 I’m currently learning TypeScript
-- 🤔 I’m looking for help with JavaScript
-- 💬 Ask me about NodeJS
+- 🔭 I’m currently working on infrastructure and DevOps Azure.
+- 🌱 I’m currently learning TypeScript.
+- 🤔 I’m looking for help with JavaScript.
+- 💬 Ask me about NodeJS.
  
  <div style="display: inline_block"><br>
   <img align="center" alt="Weslley4g-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
